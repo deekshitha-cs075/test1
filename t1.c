@@ -7,4 +7,6 @@ printf("hello");
   printf("%d\n",c);
   d=a-b;
    printf("%d\n",d);
+  e=a*b;
+   printf("%d\n",e);
 }
