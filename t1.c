@@ -8,5 +8,5 @@ printf("hello");
   d=a-b;
    printf("%d\n",d);
   printf("bye");
-gooooooood mornnning
+printf("gooooooood mornnning");
 }
