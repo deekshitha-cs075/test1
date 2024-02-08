@@ -8,4 +8,6 @@ printf("hello");
   d=a-b;
    printf("%d\n",d);
   printf("bye");
+printf("gooooooood mornnning");
+hoooooooooooo
 }
